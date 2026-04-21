@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="160" viewBox="0 0 800 160">
+  <rect width="800" height="160" fill="#000000"/>
+  <text font-family="Courier New, monospace" font-size="13" fill="#FF0000" xml:space="preserve">
+    <tspan x="20" dy="20">  ______   _______  _______  _______  _________</tspan>
+    <tspan x="20" dy="16"> (  __  \ (  ____ \(  ____ \(  ___  )\__   __/</tspan>
+    <tspan x="20" dy="16"> | (  \  )| (    \/| (    \/| (   ) |   ) (   </tspan>
+    <tspan x="20" dy="16"> | |   ) || (__    | |      | |   | |   | |   </tspan>
+    <tspan x="20" dy="16"> | |   | ||  __)   | |      | |   | |   | |   </tspan>
+    <tspan x="20" dy="16"> | |   ) || (      | |      | |   | |   | |   </tspan>
+    <tspan x="20" dy="16"> | (__/  )| (____/\| (____/\| (___) |   | |   </tspan>
+    <tspan x="20" dy="16"> (______/ (_______/(_______/(_______)   )_(   </tspan>
+  </text>
+  <text font-family="Courier New, monospace" font-size="13" fill="#00FF41" x="500" y="148" xml:space="preserve">fsociety~# █</text>
+</svg>
