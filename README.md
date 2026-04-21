@@ -16,18 +16,6 @@
   </picture>
 </p>
 
----
-
-<p align="center">
-
-```
-PING github.com/sronters                    ... [REACHABLE]
-PING linkedin.com/in/baktiyar-ablaikhan-    ... [REACHABLE]
-PING kaggle.com/bakhtiyar2222               ... [REACHABLE]
-PING neweraprojecta@gmail.com               ... [REACHABLE :: ENCRYPTED]
-```
-
-</p>
 
 ---
 
