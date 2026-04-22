@@ -28,11 +28,7 @@
   <circle cx="60" cy="16" r="6" fill="#28C840"/>
 
   <!-- Title -->
-<<<<<<< Updated upstream
-  <text x="430" y="21" text-anchor="middle" class="title">sronters@fsociety: ~</text>
-=======
   <text x="430" y="21" text-anchor="middle" class="title">sronters@local: ~</text>
->>>>>>> Stashed changes
 
   <!-- ─── ASCII LOGO ─── -->
   <text x="30" y="66" class="red-dim"> ______   _______  _______  _______  _________</text>
@@ -46,11 +42,7 @@
 
   <!-- ─── whoami ─── -->
   <text x="30" y="232">
-<<<<<<< Updated upstream
-    <tspan class="prompt">sronters@fsociety:~$ </tspan><tspan class="cmd">whoami</tspan>
-=======
     <tspan class="prompt">sronters@local:~$ </tspan><tspan class="cmd">whoami</tspan>
->>>>>>> Stashed changes
   </text>
   <text x="30" y="254" class="white">
     Baktiyar Ablaikhan  |  Astana, KZ
@@ -58,18 +50,6 @@
 
   <!-- ─── cat identity.json ─── -->
   <text x="30" y="294">
-<<<<<<< Updated upstream
-    <tspan class="prompt">sronters@fsociety:~$ </tspan><tspan class="cmd">cat identity.json</tspan>
-  </text>
-  <!-- Focus -> CV and NLP -->
-  <text x="30" y="316" class="white">&gt; grade    :  9th — NIS Astana Nura</text>
-  <text x="30" y="338" class="white">&gt; focus    :  Computer Vision · Natural Language Processing (NLP)</text>
-  <text x="30" y="360" class="white">&gt; motive   :  "The world itself is just one big machine." — Elliot</text>
-
-  <!-- ─── cat expertise.json ─── -->
-  <text x="30" y="400">
-    <tspan class="prompt">sronters@fsociety:~$ </tspan><tspan class="cmd">cat expertise.json</tspan>
-=======
     <tspan class="prompt">sronters@local:~$ </tspan><tspan class="cmd">cat identity.json</tspan>
   </text>
   <!-- Focus -> CV and NLP -->
@@ -80,7 +60,6 @@
   <!-- ─── cat expertise.json ─── -->
   <text x="30" y="400">
     <tspan class="prompt">sronters@local:~$ </tspan><tspan class="cmd">cat expertise.json</tspan>
->>>>>>> Stashed changes
   </text>
 
   <!-- Section: AI / ML -->
@@ -100,29 +79,16 @@
   <text x="30" y="630" class="cyan">=== Hardware Engineering &amp; Edge AI ===</text>
   <text x="30" y="650" class="yellow">ESP32-S3, Arduino, On-Device Optimization, Sensor Integration, m2cgen</text>
   
-<<<<<<< Updated upstream
-  <!-- ─── ./decrypt_reality.sh ─── -->
-  <text x="30" y="690">
-    <tspan class="prompt">sronters@fsociety:~$ </tspan><tspan class="cmd">./decrypt.sh</tspan>
-  </text>
-  <text x="30" y="712" class="red">
-    decrypting... control is an illusion.
-=======
   <!-- ─── ./deploy_model.sh ─── -->
   <text x="30" y="690">
     <tspan class="prompt">sronters@local:~$ </tspan><tspan class="cmd">./deploy.sh</tspan>
   </text>
   <text x="30" y="712" class="cyan">
     deploying... system operational.
->>>>>>> Stashed changes
   </text>
 
   <!-- final prompt -->
   <text x="30" y="730">
-<<<<<<< Updated upstream
-    <tspan class="prompt">sronters@fsociety:~$ </tspan><tspan class="prompt">█</tspan>
-=======
     <tspan class="prompt">sronters@local:~$ </tspan><tspan class="prompt">█</tspan>
->>>>>>> Stashed changes
   </text>
 </svg>
