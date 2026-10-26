@@ -1,4 +1,4 @@
-# hey, i'm baktiyar
+**hey, i'm baktiyar**
 
 software & machine learning engineer from kazakhstan. into computational physics, mathematics, and electronics. building across software, hardware, and research, currently exploring PCB design and embedded systems.
 
