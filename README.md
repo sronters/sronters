@@ -2,8 +2,6 @@
 
 software & machine learning engineer from kazakhstan. into computational physics, mathematics, and electronics. building across software, hardware, and research, currently exploring PCB design and embedded systems.
 
-### stack
-
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
